@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+*.map
+.vscode/
+.idea/
+test-hf-*.js
+check-hf-key.js
+.env.bak
